@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMonitorPlus.iml" filepath="$PROJECT_DIR$/JavaMonitorPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaMonitorPlus/client/client.iml" filepath="$PROJECT_DIR$/../JavaMonitorPlus/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaMonitorPlus/server/server.iml" filepath="$PROJECT_DIR$/../JavaMonitorPlus/server/server.iml" />
+    </modules>
+  </component>
+</project>
