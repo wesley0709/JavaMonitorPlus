@@ -4,7 +4,7 @@
 
 ## 一、简介
 
-JAVAMonitorPlus基于https://github.com/yueshutong/JavaMonitor修改增加了登录，使用权限管理和服务器性能信息查看，并将部分监控功能改为JMX处理。在今后的版本中将完善使用JMX监控应用程序性能
+JAVAMonitorPlus增加了登录，使用权限管理和服务器性能信息查看，并将部分监控功能改为JMX处理。在今后的版本中将完善使用JMX监控应用程序性能
 
 ## 二、环境
 
